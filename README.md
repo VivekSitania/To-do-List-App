@@ -2,7 +2,9 @@
 
 To-do-List-App (Made using HTML5 CSS3 and JavaScript)
 
-You can see the website live at: 
+You can see the website live at: https://viveksitania.github.io/To-do-List-App/
+
+Demo video link: https://www.youtube.com/watch?v=zsNZtZoBmys
 
 ABOUT THIS PROJECT-:
 
